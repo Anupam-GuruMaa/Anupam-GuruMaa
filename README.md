@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anupam Singh</h1>
 <h3 align="center">DataBase Administrator</h3>
-
+<img align="right" alt="coding" width="300" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/9c/e99a2cc09045faa2272c8aec469b95/Database-Administration.jpg?auto=format%2Ccompress&dpr=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-gurumaa&label=Profile%20views&color=0e75b6&style=flat" alt="anupam-gurumaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupam-gurumaa" alt="anupam-gurumaa" /></a> </p>
